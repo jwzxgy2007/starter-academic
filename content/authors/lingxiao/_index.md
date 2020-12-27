@@ -6,7 +6,7 @@ title: Ling-Xiao Zhang
 superuser: true
 
 # Role/position
-role: Engineer
+role: Assistant Engineer
 
 # Organizations/Affiliations
 organizations:
